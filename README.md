@@ -1,3 +1,2 @@
-# WhatsApp-group-chat-analysis-using-Python-PowerBi
 
-<a href="pdfs/WhatsApp group chat analysis using Python&PowerBi.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+<a href="https://github.com/vijayjc2018/WhatsApp-group-chat-analysis-using-Python-PowerBi/blob/main/WhatsApp%20group%20chat%20analysis%20using%20Python%26PowerBi.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
